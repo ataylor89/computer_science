@@ -161,5 +161,5 @@ Today is Friday, October 31, 2025
 
 As my mom would say, TGIF
 
-Thanks for reading,
+Thanks for reading,  
 Andrew

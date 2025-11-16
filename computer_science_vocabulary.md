@@ -17,5 +17,6 @@ In the table below, I'll define some important terms from computer science
 | Binary | A positional number system in base two |
 | Ciphertext | (1) An encrypted message (2) Encrypted information |
 | Computer | A computer is a machine that can be programmed |
+| Machine | A machine is something that does work for us |
 | Plaintext | Unencrypted information |
 | Processor | A chip that executes instructions |

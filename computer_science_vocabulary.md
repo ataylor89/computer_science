@@ -22,6 +22,7 @@ In the table below, I'll define some important terms from computer science
 | Decipher | To decrypt an encrypted message |
 | Deserialize | Reconstruct an object from a series of bytes |
 | File | Data encoded as a sequence of bytes stored on the hard drive under a unique path |
+| Filter | A device that separates an input stream into two categories (what gets filtered in and what gets filtered out) |
 | Hexadecimal | A positional number system in base sixteen |
 | Machine | A machine is something that does work for us |
 | Plaintext | Unencrypted information |

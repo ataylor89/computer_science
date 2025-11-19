@@ -30,3 +30,4 @@ In the table below, I'll define some important terms from computer science
 | Processor | A chip that executes instructions |
 | Programming language | A language that can be used to program a computer |
 | Serialize | Convert an object and its data into a series of bytes |
+| Sieve | (1) A sieve is a filter (2) For example, the sieve of Eratosthenes is an algorithm that separates primes from non-primes (3) To give another example, the kitchen colandar is a type of sieve |

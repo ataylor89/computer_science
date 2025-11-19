@@ -20,9 +20,11 @@ In the table below, I'll define some important terms from computer science
 | Computer | A computer is a machine that can be programmed |
 | Decimal | A positional number system in base ten |
 | Decipher | To decrypt an encrypted message |
+| Deserialize | Reconstruct an object from a series of bytes |
 | File | Data encoded as a sequence of bytes stored on the hard drive under a unique path |
 | Hexadecimal | A positional number system in base sixteen |
 | Machine | A machine is something that does work for us |
 | Plaintext | Unencrypted information |
 | Processor | A chip that executes instructions |
 | Programming language | A language that can be used to program a computer |
+| Serialize | Convert an object and its data into a series of bytes |

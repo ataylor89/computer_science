@@ -25,6 +25,7 @@ In the table below, I'll define some important terms from computer science
 | Filter | A device that separates an input stream into two categories (what gets filtered in and what gets filtered out) |
 | Hexadecimal | A positional number system in base sixteen |
 | Machine | A machine is something that does work for us |
+| Parse | (1) To break a whole into parts (2) To break a word, sentence, or file into parts (3) Etymology: The English word "parse" comes from the Latin word "pars, partis", which means "part" or "parts" |
 | Plaintext | Unencrypted information |
 | Processor | A chip that executes instructions |
 | Programming language | A language that can be used to program a computer |

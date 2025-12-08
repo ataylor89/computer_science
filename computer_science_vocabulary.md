@@ -18,6 +18,7 @@ In the table below, I'll define some important terms from computer science
 | Cipher | An algorithm for encrypting or decrypting a message |
 | Ciphertext | (1) An encrypted message (2) Encrypted information |
 | Computer | A computer is a machine that can be programmed |
+| Data structure | A database; a way of structuring data |
 | Decimal | A positional number system in base ten |
 | Decipher | To decrypt an encrypted message |
 | Deserialize | Reconstruct an object from a series of bytes |
@@ -25,9 +26,16 @@ In the table below, I'll define some important terms from computer science
 | Filter | A device that separates an input stream into two categories (what gets filtered in and what gets filtered out) |
 | Hexadecimal | A positional number system in base sixteen |
 | Machine | A machine is something that does work for us |
+| Machine code | A computer language that is understood by a processor |
+| Memory | An array of memory cells |
+| Memory cell | (1) A cell in memory that stores a 1 or a 0 as a high voltage level or a low voltage level (2) A cell in memory that stores a 1 or a 0 as a voltage signal |
 | Parse | (1) To break a whole into parts (2) To break a word, sentence, or file into parts (3) Etymology: The English word "parse" comes from the Latin word "pars, partis", which means "part" or "parts" |
 | Plaintext | Unencrypted information |
 | Processor | A chip that executes instructions |
+| Program | One or more threads of execution (see thread) |
 | Programming language | A language that can be used to program a computer |
 | Serialize | Convert an object and its data into a series of bytes |
 | Sieve | (1) A sieve is a filter (2) For example, the sieve of Eratosthenes is an algorithm that separates primes from non-primes (3) To give another example, the kitchen colandar is a type of sieve |
+| Thread | A single list of executable instructions stored in memory under a start address |
+| Unicode | A character encoding system that supports many world languages, has over 1 million code points, and is consistent with ASCII for the first 128 characters |
+| UTF-8 | (1) The most compressed Unicode format. The default character encoding system on MacOS and the default character encoding system in HTML5. (2) A variable-width character encoding system that uses 1, 2, 3, or 4 bytes to encode a character, depending on the character |

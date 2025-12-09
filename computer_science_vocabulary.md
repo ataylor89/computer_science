@@ -36,6 +36,7 @@ In the table below, I'll define some important terms from computer science
 | Programming language | A language that can be used to program a computer |
 | Serialize | Convert an object and its data into a series of bytes |
 | Sieve | (1) A sieve is a filter (2) For example, the sieve of Eratosthenes is an algorithm that separates primes from non-primes (3) To give another example, the kitchen colandar is a type of sieve |
+| Table | A data structure (or database) that organizes information into rows (records) and columns (fields) |
 | Thread | A single list of executable instructions stored in memory under a start address |
 | Unicode | A character encoding system that supports many world languages, has over 1 million code points, and is consistent with ASCII for the first 128 characters |
 | UTF-8 | (1) The most compressed Unicode format. The default character encoding system on MacOS and the default character encoding system in HTML5. (2) A variable-width character encoding system that uses 1, 2, 3, or 4 bytes to encode a character, depending on the character |

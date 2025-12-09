@@ -32,7 +32,7 @@ In the table below, I'll define some important terms from computer science
 | Parse | (1) To break a whole into parts (2) To break a word, sentence, or file into parts (3) Etymology: The English word "parse" comes from the Latin word "pars, partis", which means "part" or "parts" |
 | Plaintext | Unencrypted information |
 | Processor | A chip that executes instructions |
-| Program | One or more threads of execution (see thread) |
+| Program | Data that gets loaded into memory and tells a processor what to do |
 | Programming language | A language that can be used to program a computer |
 | Serialize | Convert an object and its data into a series of bytes |
 | Sieve | (1) A sieve is a filter (2) For example, the sieve of Eratosthenes is an algorithm that separates primes from non-primes (3) To give another example, the kitchen colandar is a type of sieve |
